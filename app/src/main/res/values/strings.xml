@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Employee Test</string>
+    <string name="text_show_all_employees">Show All Employees</string>
+    <string name="text_name">Name</string>
+    <string name="text_salary">Salary</string>
+    <string name="text_age">Age</string>
+    <string name="text_submit">Submit</string>
+    <string name="text_delete">Delete</string>
+    <string name="text_edit">Edit</string>
+</resources>
